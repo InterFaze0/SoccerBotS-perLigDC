@@ -66,5 +66,5 @@ async def yardim(message):
     
 
 
-token = '' #Kendi botunuzun token dizisini buraya girmeniz gereklidir(Not: Tokeninizi kimseyle paylaşmayın)
+token = '' #Kendi botunuzun token dizisini buraya girmeniz gereklidir(Not:Token bilginizi kimseyle paylaşmayın)
 macbot.run(token)
