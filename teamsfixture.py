@@ -3,9 +3,9 @@ import requests
 from bs4 import BeautifulSoup
 
 
-#Bu python dosyasında fotomaç sitesinden veri kazıyoruz
-#(Not: Kütüphaneleri indirmeyi unutmayın eğer html.parser yerine 
-#başka bir kütüphane kullanıyorsanız o kütüphaneyide indirmek zorundasınız){bkz. satır 14}
+# Bu python dosyasında fotomaç sitesinden veri kazıyoruz
+# (Not: Kütüphaneleri indirmeyi unutmayın eğer html.parser yerine 
+# başka bir kütüphane kullanıyorsanız o kütüphaneyide indirmek zorundasınız){bkz. satır 14}
 
 
 def trabzonspor():
